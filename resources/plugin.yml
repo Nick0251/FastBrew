@@ -1,0 +1,5 @@
+name: FastBrew
+author: eqxDev
+version: 1.0
+description: Speeds up brewing and smelting.
+main: me.eqxdev.fastbrew.Main
